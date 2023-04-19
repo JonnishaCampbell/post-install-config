@@ -29,20 +29,23 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Log into the account you just made
 Configure Roles
 <ul>
 	<p> - Go to the Admin Panel -> Agents -> Roles </p>
 	<p> - Create a Role called Supreme Admin </p>
 	</ul>
+<p>
+<img src="https://i.imgur.com/mQBFaZd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>	
 Configure Departments
 <ul>
 	<p> - Go to Admin Panel -> Agents -> Departments </p>
 	<p> - Create a Department called System Administrators </p>
 	</ul>
+<p>
+<img src="https://i.imgur.com/cURUH5h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>	
 Configure Teams
 <ul>
 	<p> - Go to Admin Panel -> Agents -> Teams </p></ul>
@@ -51,12 +54,12 @@ Configure Teams
 	<p>  i. Level I Support </p>
 	<p> ii. Level II Support </p>
 	Note: Level I Support is created by default</ul>
+<p>
+<img src="https://i.imgur.com/I3NCYbt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>	
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 Allow anyone to create tickets
 <ul>	
@@ -70,17 +73,20 @@ Configure Agents
 <ul>	
 <p>	- Go to Admin Panel -> Agents -> Add new </p>
 <p>	- Create at least 2 agents: e.g. Jane Doe and John Doe </p></ul>
+<p>
+<img src="https://i.imgur.com/JzbupBW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 Configure Users
 	- This is adding customers
 <ul>	
 <p>	- Go to Admin Panel -> Users -> Add new </p>
 <p>	- Create at least 2 users: e.g. Jenny Jen and Kenny Ken </p></ul>
+<p>
+<img src="https://i.imgur.com/d9tNU7R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 Configure SLA
 	- This is to manage tickets on the level of urgency
@@ -89,6 +95,9 @@ Configure SLA
 <p>	- Sev-A (1 hour, 24/7) </p>
 <p>	- Sev-B (4 hours, 24/7) </p>
 <p>	- Sev-C (8 hours, 24/7) </p></ul>
+<p>
+<img src="https://i.imgur.com/zCfN2KX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 Configure Help Topics
 <ul>
 <p>	- Go to Admin Panel -> Manage -> Help Topics </p></ul>
@@ -98,5 +107,8 @@ Select the following topics for users to choose from when deciding what their is
 		<p> ii. Personal Computer Issues
 		<p> iii. Equipment Request
 		<p> iv. Password Reset</ul>
+<p>
+<img src="https://i.imgur.com/3LHjGlg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>		
 </p>
 <br />
