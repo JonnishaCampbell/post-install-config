@@ -45,11 +45,12 @@ Configure Departments
 	</ul>
 Configure Teams
 <ul>
-	<p> - Go to Admin Panel -> Agents -> Teams </p>
-	<p> - Create the following teams </p></ul>
-		i. Level I Support
-		ii. Level II Support
-	- Note: Level I Support is created by default
+	<p> - Go to Admin Panel -> Agents -> Teams </p></ul>
+	Create the following teams 
+	<ul>
+	<p>  i. Level I Support </p>
+	<p> ii. Level II Support </p>
+	Note: Level I Support is created by default</ul>
 </p>
 <br />
 
@@ -61,7 +62,7 @@ Allow anyone to create tickets
 <ul>	
 <p>	- Go to Admin Panel -> Settings -> User Settings </p>
 <p>	- Uncheck the Registration Required so the user doesn't have to require registration to login and create tickets </p>
-	-Note: Only for lab purposes. It'll be required to register in the work field
+	Note: Only for lab purposes. It'll be required to register in the work field
 	</ul>
 
 Configure Agents
