@@ -32,16 +32,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Use the admin information to log into osTicket;if not logged in
+Log into the account you just made
 Configure Roles
+<ul>
 	<p> - Go to the Admin Panel -> Agents -> Roles </p>
 	<p> - Create a Role called Supreme Admin </p>
+	</ul>
 Configure Departments
+<ul>
 	<p> - Go to Admin Panel -> Agents -> Departments </p>
 	<p> - Create a Department called System Administrators </p>
+	</ul>
 Configure Teams
+<ul>
 	<p> - Go to Admin Panel -> Agents -> Teams </p>
-	<p> - Create the following teams </p>
+	<p> - Create the following teams </p></ul>
 		i. Level I Support
 		ii. Level II Support
 	- Note: Level I Support is created by default
@@ -53,18 +58,22 @@ Configure Teams
 </p>
 <p>
 Allow anyone to create tickets
+<ul>	
 <p>	- Go to Admin Panel -> Settings -> User Settings </p>
 <p>	- Uncheck the Registration Required so the user doesn't have to require registration to login and create tickets </p>
 	-Note: Only for lab purposes. It'll be required to register in the work field
+	</ul>
 
 Configure Agents
 	- This is for the workers
+<ul>	
 <p>	- Go to Admin Panel -> Agents -> Add new </p>
-<p>	- Create at least 2 agents: e.g. Jane Doe and John Doe </p>
+<p>	- Create at least 2 agents: e.g. Jane Doe and John Doe </p></ul>
 Configure Users
 	- This is adding customers
+<ul>	
 <p>	- Go to Admin Panel -> Users -> Add new </p>
-<p>	- Create at least 2 users: e.g. Jenny Jen and Kenny Ken </p>
+<p>	- Create at least 2 users: e.g. Jenny Jen and Kenny Ken </p></ul>
 </p>
 <br />
 
@@ -74,16 +83,19 @@ Configure Users
 <p>
 Configure SLA
 	- This is to manage tickets on the level of urgency
+<ul>	
 <p>	- Go to Admin Panel -> Manage -> SLA </p>
 <p>	- Sev-A (1 hour, 24/7) </p>
 <p>	- Sev-B (4 hours, 24/7) </p>
-<p>	- Sev-C (8 hours, 24/7) </p>
+<p>	- Sev-C (8 hours, 24/7) </p></ul>
 Configure Help Topics
-<p>	- Go to Admin Panel -> Manage -> Help Topics </p>
-<p>	- Select the following topics for users to choose from when deciding what their issue should fall under </p>
-		i. Business Critical Outage
-		ii. Personal Computer Issues
-		iii. Equipment Request
-		iv. Password Reset
+<ul>
+<p>	- Go to Admin Panel -> Manage -> Help Topics </p></ul>
+Select the following topics for users to choose from when deciding what their issue should fall under 
+		<ul>
+		<p> i. Business Critical Outage
+		<p> ii. Personal Computer Issues
+		<p> iii. Equipment Request
+		<p> iv. Password Reset</ul>
 </p>
 <br />
