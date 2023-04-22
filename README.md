@@ -110,5 +110,5 @@ Select the following topics for users to choose from when deciding what their is
 <p>
 <img src="https://i.imgur.com/3LHjGlg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>		
-Click the <a href="https://github.com/JonnishaCampbell/post-install-config">ticket-lifecycle</a> link for the final section of the project
+Click the <a href="https://github.com/JonnishaCampbell/ticket-lifecycle">ticket-lifecycle</a> link for the final section of the project
 <br />
